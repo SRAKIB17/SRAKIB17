@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<svg id="Слой_1" style="enable-background:new 0 0 200 200;" version="1.1" viewBox="0 0 200 200" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<style type="text/css">
+		.st0{fill:url(#SVGID_1_);}
+		.st1{fill:url(#SVGID_2_);}
+		.st2{fill:url(#SVGID_3_);}
+		.st3{fill:url(#SVGID_4_);}
+		.st4{fill:url(#SVGID_5_);}
+	</style>
+	<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_1_" x1="125.8" x2="152.3163" y1="37.5631" y2="37.5631">
+		<stop offset="0" style="stop-color:#F7931E" />
+		<stop offset="1" style="stop-color:#AF1259" />
+	</linearGradient>
+	<circle class="st0" cx="139.1" cy="37.6" r="13.3" />
+	<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_2_" x1="163.4162" x2="173.8995" y1="45.5797" y2="45.5797">
+		<stop offset="0" style="stop-color:#F7931E" />
+		<stop offset="1" style="stop-color:#AF1259" />
+	</linearGradient>
+	<circle class="st1" cx="168.7" cy="45.6" r="5.2" />
+	<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_3_" x1="60.1256" x2="77.3921" y1="161.5119" y2="161.5119">
+		<stop offset="0" style="stop-color:#F7931E" />
+		<stop offset="1" style="stop-color:#AF1259" />
+	</linearGradient>
+	<circle class="st2" cx="68.8" cy="161.5" r="8.6" />
+	<g>
+		<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_4_" x1="59.8996" x2="150.2533" y1="99.7754" y2="99.7754">
+			<stop offset="0" style="stop-color:#F7931E" />
+			<stop offset="1" style="stop-color:#AF1259" />
+		</linearGradient>
+		<polygon class="st3" points="91.9,114.2 116.8,99.8 91.9,85.4  " />
+		<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_5_" x1="12.6221" x2="187.3778" y1="103.117" y2="103.117">
+			<stop offset="0" style="stop-color:#F7931E" />
+			<stop offset="1" style="stop-color:#AF1259" />
+		</linearGradient>
+		<path class="st4" d="M148.2,61c-0.3,0-0.6,0-0.9,0c-13.4-0.2-26-5.7-35.8-14.8c-10.5-9.7-24.5-15.7-40-15.7c-32,0-58.4,26-58.9,58   c-0.5,32.9,26.1,59.7,58.8,59.7c0,0,0.1,0,0.1,0c6.1,0,11.7,3.4,14.4,9c5.4,11,16.8,18.6,29.9,18.6c12.3,0,22.7-6.2,28.5-16   c5.3-9,12.6-16.7,21.7-21.8c12.4-6.9,21.4-20.9,21.4-36.2C187.4,79.9,170,61.8,148.2,61z M143.4,123.3c-1.1,4.8-5,8.3-9.7,8.8   c-11.2,1.2-22.5,1.3-33.7,1.2c-11.2,0-22.5,0-33.7-1.2c-4.7-0.5-8.6-4.1-9.7-8.8C55,116.5,55,109,55,102c0-7,0-14.5,1.6-21.3   c1.1-4.8,5-8.3,9.7-8.8c11.2-1.2,22.5-1.3,33.7-1.2c11.2,0,22.5,0,33.7,1.2c4.7,0.5,8.6,4.1,9.7,8.8C145,87.5,145,95,145,102   C145,109,145,116.5,143.4,123.3z" />
+	</g>
+</svg>
