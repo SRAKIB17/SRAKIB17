@@ -13,10 +13,22 @@
 ## :computer: Technologies that I know
 <br>
 <p align="center">
-
-
-<img src="./icons/FrontendDevelopment/html.svg" height="40"/> 
-
+<img src="./icons/FrontendDevelopment/html.svg" height="40" title="HTML5"/> 
+<img src="./icons/FrontendDevelopment/css.svg" height="40" title="CSS3"/> 
+<img src="./icons/ProgrammingLanguages/javascript.svg" height="40" title="Javascript"/> 
+<img src="./icons/FrontendDevelopment/reactjs.svg" height="40" title="React"/> 
+<img src="./icons/StaticSiteGenerators/nextjs.svg" height="40" title="NextJS"/> 
+<img src="./icons/FrontendDevelopment/bootstrap.svg" height="40" title="Bootstrap"/> 
+<img src="./icons/FrontendDevelopment/tailwind.svg" height="40" title="Tailwind"/> 
+<img src="./icons/BaaS/firebase.svg" height="40" title="Firebase"/> 
+<img src="./icons/BackendDevelopment/nodejs.svg" height="40" title="NodeJS"/> 
+<img src="./icons/BackendDevelopment/express.svg" height="40" title="Express"/> 
+<img src="./icons/Database/mongodb.svg" height="40" title="MongoDB"/> 
+<img src="./icons/AIML/pandas-original.svg" height="40" title="pandas"/> 
+<img src="./icons/AIML/numpy.svg" height="40" title="Numpy"/> 
+<img src="./icons/Software/figma.svg" height="40" title="Figma"/> 
+<img src="./icons/Software/postman.svg" height="40" title="Postman"/> 
+<img src="./icons/Other/git.svg" height="40" title="github"/> 
 </p><br/>
 
 <div align=center>
