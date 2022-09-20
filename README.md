@@ -2,13 +2,25 @@
 ## <h1 align="center">Hi Everyone <img src="./blob/Wave.gif" height="55px" width="55px">, do you need any help ☘️: ?</h1>
 
 
+
 ## :eyes: Current overview
 
-- ### 🤔 I think all time and taking out a plan or project from think. 
-- ### 🌱 I’m currently learning coding with design. 
-- ### 👯 I’m looking to collaborate on open source projects. 
-- ### 🤔 I’m looking for help with fixing my coding addiction. 
-- ### ⚡ Fun fact: I love create a new think of project. It will make easy or complex
+- #### 🤔 I think all time and taking out a plan or project from think. 
+- #### 🌱 I’m currently learning coding with design. 
+- #### 👯 I’m looking to collaborate on open source projects. 
+- #### 🤔 I’m looking for help with fixing my coding addiction. 
+- #### ⚡ Fun fact: I love create a new think of project. It will make easy or complex
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SRAKIB17&theme=github"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SRAKIB17&theme=github">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SRAKIB17&theme=github&utcOffset=-5">
+</p>
+
 
 ## :computer: Technologies that I know
 <br>
