@@ -10,9 +10,7 @@
 - ### 🤔 I’m looking for help with fixing my coding addiction. 
 - ### ⚡ Fun fact: I love create a new think of project. It will make easy or complex
 
-
-
-## computer: Technologies that I know
+## :computer: Technologies that I know
 <br>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/> 
@@ -60,7 +58,7 @@
   <a href="mailto:@gmail.com" target="_blank">
     <img src="./blob/social/mail.svg" alt="mail" width="90"  />
   </a>
-  <a href="mailto:hackingblackjackhvm@gmail.com" target="_blank">
+  <a href="https://www.linkedin.com/in/rakib17" target="_blank">
     <img src="./blob/social/linkedin.svg" alt="linkedin" width="100"  />
   </a>
   <a href="" target="_blank">
