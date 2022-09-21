@@ -1,6 +1,7 @@
 
 ## <h1 align="center">Hi Everyone <img src="./blob/Wave.gif" height="55px" width="55px">, do you need any help ☘️: ?</h1>
 
+ <img src="./typewriter%20(5).svg"/>
 
 
 ## :eyes: Current overview
