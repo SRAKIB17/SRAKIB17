@@ -1,6 +1,12 @@
 
 ## <h1 align="center">Hi Everyone <img src="./blob/Wave.gif" height="55px" width="55px">, do you need any help ☘️: ?</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SRAKIB17&label=Profile%20views&color=0e75b6&style=flat" alt="ismataraeva2712" /> </p>
+
+<!-- 
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SRAKIB17&bg_color=0d0e1c&color=dfe208&line=eddb0c&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
 
 
 ## :eyes: Current overview
