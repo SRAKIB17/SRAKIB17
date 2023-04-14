@@ -47,6 +47,7 @@
 <img src="./icons/Database/sqlite.svg" height="40" title="SqLite"/> 
 <img src="./icons/AIML/matplotlib.svg" height="40" title="Matplotlib"/>
 <img src="./icons/ProgrammingLanguages/r-programming-language.svg" height="40" title="R"/>
+<img src="./icons/ProgrammingLanguages/typescript.svg" height="40" title="R"/>
 <img src="./icons/ProgrammingLanguages/python.svg" height="40" title="Python"/>
 <img src="./icons/AIML/pandas-original.svg" height="40" title="pandas"/> 
 <img src="./icons/AIML/numpy.svg" height="40" title="Numpy"/> 
