@@ -44,6 +44,7 @@
 <img src="./icons/Database/mongodb.svg" height="40" title="MongoDB"/> 
 <img src="./icons/Database/mysql.svg" height="40" title="mysql"/> 
 <img src="./icons/Database/sql.svg" height="40" title="SQL"/>
+<img src="./icons/Database/postgresql.svg" height="40" title="SQL"/>
 <img src="./icons/Database/sqlite.svg" height="40" title="SqLite"/> 
 <img src="./icons/AIML/matplotlib.svg" height="40" title="Matplotlib"/>
 <img src="./icons/ProgrammingLanguages/r-programming-language.svg" height="40" title="R"/>
