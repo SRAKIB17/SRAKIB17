@@ -83,7 +83,7 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/rakib2017/" target="_blank">
+  <a href="https://www.facebook.com/srakib17/" target="_blank">
     <img src="./blob/social/facebook.svg" alt="facebook" width='100'/>
   </a>
   <a href="mailto:rakibulssc5@gmail.com" target="_blank">
